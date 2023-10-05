@@ -1,0 +1,27 @@
+Jeff Dean's article discusses the evolution of machine learning and artificial intelligence (AI) from its early days to the present, highlighting the significant advancements made at Google. Here's a summary of the key points:
+
+1. Background in Neural Networks**: Jeff Dean's journey with neural networks began in 1990 during his undergraduate studies. He initially believed that a relatively small increase in computing power could lead to impressive achievements with neural networks. However, he soon realized that much more computational power was needed.
+
+2. Google's Early AI Efforts**: Jeff Dean joined Google in its early years when machine learning was applied to tasks like spam detection and improving search results. These used statistical machine learning techniques.
+
+3. Rise of Deep Learning**: Around 2012, deep learning with neural networks gained prominence. Deep learning allowed for the recognition of complex patterns, such as identifying objects in images. Google's work in this area led to innovations like Google Photos and Google Lens.
+
+4. Applications Beyond Products**: Google extended deep learning to healthcare, detecting diabetic retinopathy, cancerous cells, and breast cancer. They also used it for flood forecasting.
+
+5. Language Understanding**: Deep learning was applied to language understanding, resulting in significant improvements in Google Translate, Smart Reply in Gmail, and more advanced language models like BERT and MUM.
+
+6. Speech Recognition**: Google improved speech recognition, making it faster and more efficient, and eventually launching on-device speech recognition for Pixel phones.
+
+7. Responsible AI**: Google is committed to responsible AI development and fairness. They publish research papers, offer courses, and create tools to detect and mitigate biases in AI systems.
+
+8. AI Principles**: Google established AI Principles in 2017, emphasizing fairness and responsible development. They've been cautious about face recognition technology due to privacy and bias concerns.
+
+9. Privacy-Focused AI**: Google introduced Federated Learning in 2017 to train models without sharing personal data, enhancing privacy in AI.
+
+10. Inclusivity**: Google focuses on building diverse teams and supporting underrepresented groups in technology through programs and partnerships.
+
+11. AI for Everyone**: Google aims to make AI inclusive and beneficial for all, with projects like Project Relate for speech-impaired individuals and Real Tone for better representation of skin tones in imaging products.
+
+In summary, Jeff Dean discusses the evolution of AI at Google, highlighting breakthroughs in deep learning, responsible AI practices, and the company's commitment to making AI work well for everyone.
+
+article link : https://blog.google/technology/ai/decade-deep-learning-and-whats-next/
